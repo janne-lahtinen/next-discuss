@@ -1,3 +1,10 @@
+# Discussion app with Next.js
+
+This is a course project from [Next.js - The complete developers guide](https://www.udemy.com/course/next-js-the-complete-developers-guide/) from Udemy.
+It uses Prisma and SQLite for database interactions.
+
+-----------
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
